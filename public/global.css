@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  color: rebeccapurple;
+  font-family: 'Comic Sans MS', cursive;
+
+  display: grid;
+  place-items: center;
+}
+
+button {
+  padding: 8px;
+}
